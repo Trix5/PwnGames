@@ -1,6 +1,0 @@
-You would like to join the party in order to see your crush and try calling her on a date but security stops you and asks you for invite code in order to join party which you don't have so you have to find another way in otherwise someone else will ask your crush out so good luck :D
-
-The point of challenge is not to just use strings command in linux but to use buffer overflow vulnerability in order to call flag function.
-
-CHALLENGE:NIGHT CLUB
-DIFFICULTY:EASY
